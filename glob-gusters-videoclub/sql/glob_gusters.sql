@@ -4,3 +4,7 @@
 
 
 -- Creación de la base de datos
+CREATE DATABASE IF NOT EXISTS glob_gusters;
+DELETE FROM glob_gusters;
+
+    
