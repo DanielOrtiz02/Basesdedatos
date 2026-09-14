@@ -2,3 +2,6 @@
 -- Autor: Daniel Ortiz 
 -- Fecha : 2024-06-10
 -- daniel es gay
+
+
+-- Creación de la base de datos
